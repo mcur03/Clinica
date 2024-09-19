@@ -1,9 +1,10 @@
 {
-  "name": "tienda",
+  "name": "Clinica",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./dist/index"
+    "dev": "nodemon ./dist/index",
+    "start": "node ./dist/index.js"
   },
   "keywords": [],
   "author": "",
